@@ -49,3 +49,17 @@ python -m pytest
 1. Создайте новую функцию, которая принимает `List[Dict]` и возвращает `List[Dict]`.
 2. Зарегистрируйте ее в словаре `REPORT_REGISTRY` внутри функции `main()` под новым ключом.
 3. Теперь отчет доступен через аргумент `--report <ваш_ключ>`.
+
+## Пример работы
+
+### Первый файл
+
+![Первый файл](screen_work/Screen_first_file.png)
+
+### Второй файл
+
+![Второй файл](screen_work/Screen_second_file.png)
+
+### Два файла
+
+![Два файла](screen_work/Screen_2_files.png)
